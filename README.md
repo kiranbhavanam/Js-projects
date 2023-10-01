@@ -14,5 +14,8 @@ Thanks to florin Pop ,this app was part of his youtube video 10 projects in 10 h
 -this is basically a timer for the upcoming new year.
 -Used the date object in js 
 
-3.ToDo app 📃
+3.ToDo app ✅
 -A simple todo list app that can keep track of all your tasks.
+
+4.Notes app 📒
+-A basic notes application developed completely using html,css and javascript
