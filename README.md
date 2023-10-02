@@ -20,3 +20,7 @@ Thanks to florin Pop ,this app was part of his youtube video 10 projects in 10 h
 
 4.Notes app 📒
 -A basic notes application developed completely using html,css and javascript
+
+5.Quiz app❔
+ -A simple quiz app that consits some questions and answers.
+ -Developed completely in html,css and javascript
